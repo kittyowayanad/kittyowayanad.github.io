@@ -1,0 +1,20 @@
+@media only screen and (min-width:300px) {
+    /* For mobile: */
+    .caption-div {
+        background: #000000bd;
+        padding: 15px;
+        border-radius: 15px; 
+        box-shadow: #000000 0px 0px 15px 2px;
+        margin: 10px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .caption-div {
+        background: #000000bd;
+        padding: 15px;
+        border-radius: 15px; 
+        box-shadow: #000000 0px 0px 15px 2px;
+    }
+}
