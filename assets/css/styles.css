@@ -9,7 +9,8 @@
         margin: 10px;
     }
     .logo{
-        
+        width: 100px !important;
+        margin-left: 0px !important;
     }
 }
 
