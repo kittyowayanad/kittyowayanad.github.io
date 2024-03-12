@@ -24,6 +24,11 @@
     }
 }
 
+ .course-image{
+    height: 200px;
+    
+ }
+
 .make-your-order{
     display: flex;
     align-items: center;
