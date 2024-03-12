@@ -1,3 +1,4 @@
+
 @media only screen and (min-width:300px) {
     /* For mobile: */
     .caption-div {
@@ -18,3 +19,14 @@
         box-shadow: #000000 0px 0px 15px 2px;
     }
 }
+
+.make-your-order{
+    display: flex;
+    align-items: center;
+}
+
+.make-your-order-text{
+    padding: 0px !important;
+    margin: 0px 0px 0px 20px !important;
+}
+
