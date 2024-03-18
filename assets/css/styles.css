@@ -23,7 +23,7 @@
         position: absolute;
         top: 200px;
         left: 10%;
-        display: block;
+        display: none;
     }
 
     .call-insta-contact {
