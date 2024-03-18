@@ -31,6 +31,6 @@ function chatOnWhatsapp() {
     }
 
     let content = getWhatsappMessage(); 
-    let whatsapp_url = "https://wa.me/919656472000?text=" + encodeURI(content); 
+    let whatsapp_url = "https://wa.me/919656473000?text=" + encodeURI(content); 
     window.open(whatsapp_url, '_blank'); 
 }
