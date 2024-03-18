@@ -5,12 +5,12 @@
         background: #000000bd;
         padding: 15px;
         border-radius: 15px; 
-        box-shadow: #000000 0px 0px 15px 2px;
         margin: 10px;
     }
     .logo{
         width: 110px !important;
         margin-left: 0px !important;
+        margin-top: 15px !important; 
     }
 }
 
@@ -20,22 +20,18 @@
         background: #000000bd;
         padding: 15px;
         border-radius: 15px; 
-        box-shadow: #000000 0px 0px 15px 2px;
     }
 
     .logo{
         width: 150px !important;
-        margin-left: 0px !important;
-    }
-
-    .logo-div {
-        margin-left: 15px;
+        margin-left: 15px !important;
     }
 }
 
  .course-image{
     height: 200px;
-    
+    border-radius: 15px;
+    background-size: cover;
  }
 
 .make-your-order{
@@ -48,3 +44,10 @@
     margin: 0px 0px 0px 20px !important;
 }
 
+.item-description {
+    font-size: medium;
+    font-family: system-ui;
+    height: 90px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
